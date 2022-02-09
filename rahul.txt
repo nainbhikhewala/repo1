@@ -1,5 +1,4 @@
 Rahul Nain is my name.
 my age 21.
-school dav set in local_branch created by us.
 lnct added from github rrepo.
 
